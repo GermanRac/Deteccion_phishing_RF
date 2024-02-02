@@ -40,7 +40,8 @@ Las salidas del sistema se presentaron en formato binario, donde "1" representab
 
 La importancia de las caracteristicas en el modelo estan distribuidas de la siguiente manera 
 
-[![Build Status](https://drive.filen.io/d/b3410b39-16db-4596-91b6-2e5b034ea531#njWkZWy2XJYY6QHpzqWbLcV3MC25IqS0)
+[![Build Status](https://drive.filen.io/d/b3410b39-16db-4596-91b6-2e5b034ea531#njWkZWy2XJYY6QHpzqWbLcV3MC25IqS0
+)
 
 
 
